@@ -16,3 +16,19 @@ Applying and modeling full dynamics of drone is not a new idea and is not the fo
 
 ### Demonstration Video
 [Quadrotor trajectory controller](https://youtu.be/ZMkLm3y0A9g)
+
+## Reference images
+### Plant model:
+![Plant Model](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/Plant.png?raw=true)
+
+### Feedback mode:
+![Feedback Model](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/Model.png?raw=true)
+
+### Y graph
+![Y graph](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/Y.png?raw=true)
+
+### Z graph
+![Z graph](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/Z.png?raw=true)
+
+### Phi graph
+![Phi graph](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/Phi.png?raw=true)
