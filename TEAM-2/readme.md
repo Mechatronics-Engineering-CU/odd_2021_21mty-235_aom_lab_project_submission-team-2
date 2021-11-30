@@ -25,7 +25,7 @@ Applying and modeling full dynamics of drone is not a new idea and is not the fo
 [UAV_trajectory_and_control_model.slx](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/UAV_trajectory_and_control_model.slx)
 
 ### Demonstration Video
-[Quadrotor trajectory controller](https://youtu.be/ZMkLm3y0A9g)
+[![Youtube video](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/yt.png?raw=true)](https://youtu.be/ZMkLm3y0A9g)
 
 ## Reference images
 ### Plant model:
