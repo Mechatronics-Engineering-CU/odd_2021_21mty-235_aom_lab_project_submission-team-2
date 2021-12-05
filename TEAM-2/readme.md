@@ -47,7 +47,7 @@ The open-loop configuration is not efficient to change the thrust, moment and ro
 ### Demonstration Video
 [![Youtube video](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/yt.png?raw=true)](https://youtu.be/ZMkLm3y0A9g)
 
-### Link to Simulink file: 
+## Link to Simulink file: 
 [UAV_trajectory_and_control_model.slx](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/UAV_trajectory_and_control_model.slx)
 
 ## Output graphs:
