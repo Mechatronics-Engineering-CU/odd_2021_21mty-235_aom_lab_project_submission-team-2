@@ -44,7 +44,7 @@ The open-loop configuration is not efficient to change the thrust, moment and ro
 
 ![Feedback Model](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/Model.png?raw=true)
 
-## Demonstration Video
+## Demonstration Video:
 [![Youtube video](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/images/yt.png?raw=true)](https://youtu.be/ZMkLm3y0A9g)
 
 ## Link to Simulink file: 
