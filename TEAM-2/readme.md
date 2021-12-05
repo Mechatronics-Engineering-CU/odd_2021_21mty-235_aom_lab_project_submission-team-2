@@ -9,6 +9,8 @@
 
 ## Documentation:
 ### [Documentation and Report](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2/blob/main/TEAM-2/Autopilot_Research_Report.pdf)
+
+## Overview:
 As drones are growing rapidly in popularity, their use in multiple section is increasing exponentially. Over the past few years, drones have become central to the functions of various businesses and governmental organizations and have managed to pierce through areas where certain industries were either stagnant or lagging behind. From quick deliveries at rush hour to scanning an unreachable military base, drones are proving to be extremely beneficial in places where man cannot reach or is unable to perform in a timely and efficient manner.
 
 Drone is not just a body with a battery with propellers; it works in a much complex way as it seem to be. There are many intrinsic and extrinsic factors affecting the flight of drone.
