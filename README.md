@@ -1,7 +1,7 @@
 ![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
         
 # Applications-of-Matlab
-# [course instructor- Prof. ANURAG SHARMA](https://github.com/designerguy13-photonics)
+# [Course instructor- Prof. ANURAG SHARMA](https://github.com/designerguy13-photonics)
 
 
 
